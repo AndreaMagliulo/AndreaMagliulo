@@ -1,16 +1,104 @@
-# Hi, I'm Andrea Magliulo 👋
+# Andrea Magliulo
 
 **Cybersecurity Graduate | Security Engineering | Application Security | Cloud Security | Secure Software Development**
 
-Cybersecurity graduate with a strong software engineering background and hands-on experience building native mobile applications, multi-tenant SaaS platforms and security-focused academic projects.
+Cybersecurity graduate with a software engineering background and hands-on experience developing and shipping native mobile applications and multi-tenant SaaS products.
 
-My main interests are **Security Engineering, Application Security, Cloud Security, Cybersecurity Analysis and Secure Software Development**.
+My current focus is on **Security Engineering, Application Security, Cloud Security and Secure Software Development**, with particular interest in building secure systems rather than treating security as a separate layer.
 
 ---
 
-## 🔐 Cybersecurity
+## About
 
-My academic background includes:
+I graduated in **Computer Engineering and Science for Cybersecurity (L-8)** from the University of Naples 'Parthenope' with a final grade of **106/110**.
+
+My academic background covers application and network security, operating system and cloud security, secure software design, vulnerability assessment, threat modeling, cryptography and Zero-Knowledge systems.
+
+Alongside my studies, I have worked on two software products:
+
+- **Signverse**, a native iOS and Android application for learning Italian Sign Language (LIS)
+- **TC Salon**, an advanced pre-production multi-tenant SaaS platform for salon operations
+
+I am also preparing to continue my studies with an **MSc in Computer Science Engineering – Cybersecurity and Cloud** at Politecnico di Bari.
+
+---
+
+## Current Work
+
+### Signverse
+**Co-founder & Mobile Developer**
+
+Signverse is a native mobile application for learning Italian Sign Language through multimedia content, gamification and progression systems.
+
+The application has reached **10,000+ downloads on iOS**, with Android released subsequently.
+
+My work includes:
+
+- native iOS development with Swift and SwiftUI
+- native Android development with Kotlin and Jetpack Compose
+- custom video caching and prefetch systems
+- multimedia lifecycle management
+- progression, streak and gamification systems
+- real-device performance profiling and optimization
+
+**Technologies:**  
+`Swift` · `SwiftUI` · `Kotlin` · `Jetpack Compose` · `AVFoundation` · `AndroidX Media3 / ExoPlayer`
+
+Signverse is also registered in the Italian SIAE Special Public Register for Computer Programs.
+
+> Production repositories are private.
+
+---
+
+### TC Salon
+**Co-founder & Full-Stack Developer — Three Curls**
+
+TC Salon is an advanced pre-production **multi-tenant SaaS platform for salon operations**.
+
+My main engineering responsibilities include:
+
+- checkout and payment workflows
+- customer balances and debt management
+- prepaid Gift Card and Fidelity workflows
+- financial reporting and transactional consistency
+- anti-double-spend controls
+- version-aware stale-state protection
+- tenant-scoped and server-side authorization
+- RLS-aware data access
+- automated regression and invariant testing
+- semi-automatic WhatsApp appointment confirmations and reminders
+- same-device QR Gift Card scanning through browser camera APIs
+
+**Technologies:**  
+`TypeScript` · `Next.js` · `React` · `PostgreSQL` · `Prisma` · `Supabase` · `Vitest` · `GitHub Actions`
+
+> The product repository is private.
+
+---
+
+## Bachelor's Thesis
+
+### Zero-Knowledge E-Voting System on Starknet
+
+My Bachelor's thesis focused on the design and experimental evaluation of a **privacy-preserving electronic voting system** deployed on Starknet Sepolia.
+
+The prototype uses Zero-Knowledge Proofs to verify voter eligibility without revealing voter identities while preventing double voting.
+
+The implementation includes:
+
+- Merkle-tree membership proofs
+- nullifiers for double-voting prevention
+- Zero-Knowledge proof generation
+- on-chain proof verification
+- Cairo smart contracts
+- browser-based DApp integration
+
+**Technologies:**  
+`Noir` · `Barretenberg UltraHonk` · `Garaga` · `Cairo` · `Starknet` · `TypeScript`
+
+---
+
+## Security Focus
 
 - Application Security
 - Network Security
@@ -22,122 +110,62 @@ My academic background includes:
 - Zero-Knowledge Proofs
 - Industrial / OT Security
 
-I am particularly interested in applying security principles directly to software architecture and real-world application development.
-
 ---
 
-## 💻 Current Work
+## Technical Stack
 
-### TC Salon
+**Languages**  
+`TypeScript` · `Swift` · `Kotlin` · `Python` · `C` · `C++` · `Assembly` · `SQL` · `Cairo`
 
-**Co-founder & Full-Stack Developer at Three Curls**
-
-TC Salon is an advanced pre-production multi-tenant SaaS platform for salon operations.
-
-I work mainly across:
-
-- checkout, payments and customer balances
-- prepaid Gift Card and Fidelity workflows
-- financial reporting and transactional consistency
-- tenant-scoped and server-side security controls
-- anti-double-spend and stale-state protection
-- automated regression and invariant testing
-- WhatsApp-assisted appointment workflows
-- browser-based QR Gift Card scanning
-
-**Stack:**  
-`TypeScript` · `Next.js` · `React` · `PostgreSQL` · `Prisma` · `Supabase` · `Vitest` · `GitHub Actions`
-
----
-
-### Signverse
-
-**Co-founder & Mobile Developer**
-
-Signverse is a native iOS and Android application for learning Italian Sign Language (LIS).
-
-The application has reached **10,000+ downloads on iOS**.
-
-My work includes:
-
-- native iOS development with Swift and SwiftUI
-- native Android development with Kotlin and Jetpack Compose
-- multimedia and video lifecycle management
-- custom caching and prefetch systems
-- gamification and progression systems
-- mobile performance profiling and optimization
-
-**Mobile stack:**  
-`Swift` · `SwiftUI` · `Kotlin` · `Jetpack Compose` · `AVFoundation` · `AndroidX Media3 / ExoPlayer`
-
-> The Signverse production codebases are private.
-
----
-
-## 🎓 Bachelor's Thesis
-
-### Zero-Knowledge E-Voting System on Starknet
-
-Designed and deployed a privacy-preserving e-voting prototype on **Starknet Sepolia**.
-
-The system uses Zero-Knowledge Proofs to verify voter eligibility while preserving voter privacy and preventing double voting.
-
-**Technologies:**
-
-`Noir` · `Barretenberg UltraHonk` · `Garaga` · `Cairo` · `Starknet` · `TypeScript`
-
-The implementation includes:
-
-- Merkle-tree membership proofs
-- nullifiers to prevent double voting
-- Zero-Knowledge proof generation
-- on-chain proof verification
-- Cairo smart contracts
-- browser-based DApp integration
-
----
-
-## 🛠️ Technologies
-
-**Languages**
-
-`TypeScript` · `Swift` · `Kotlin` · `Python` · `C` · `C++` · `SQL` · `Cairo`
-
-**Frontend & Mobile**
-
+**Frontend & Mobile**  
 `React` · `Next.js` · `SwiftUI` · `Jetpack Compose`
 
-**Backend & Data**
-
+**Backend & Data**  
 `PostgreSQL` · `Prisma ORM` · `Supabase`
 
-**Security & Engineering**
+**Security & Web3**  
+`Application Security` · `Network Security` · `Cloud Security` · `Zero-Knowledge Proofs` · `Noir` · `Starknet`
 
-`Application Security` · `Network Security` · `Cloud Security` · `Secure Software Development` · `Zero-Knowledge Proofs`
-
-**Tools**
-
+**Development & Tooling**  
 `Git` · `GitHub` · `GitHub Actions` · `Linux / UNIX` · `Vitest` · `ESLint`
 
 ---
 
-## 📚 Selected Training
+## Education
 
-- AWS Academy - Cloud Foundations
-- AWS Academy - Cloud Developing
-- AWS Academy - Generative AI Foundations
-- Apple Foundation - iOS Essentials
-- Apple Foundation - watchOS & tvOS Advanced
-- Cambridge English B1 - Overall Score 159
+**MSc in Computer Science Engineering – Cybersecurity and Cloud**  
+Politecnico di Bari  
+*Incoming September 2026*
 
----
+**Bachelor's Degree (L-8) in Computer Engineering and Science for Cybersecurity**  
+University of Naples 'Parthenope'  
+2023 – 2026 · **106/110**
 
-## 📫 Contact
-
-- LinkedIn: [linkedin.com/in/andreamagliulo](https://www.linkedin.com/in/andreamagliulo)
-- GitHub: [github.com/AndreaMagliulo](https://github.com/AndreaMagliulo)
-- Email: [andrymagliulo2004@gmail.com](mailto:andrymagliulo2004@gmail.com)
+**Scientific High School Diploma – Applied Sciences**  
+Liceo Scientifico Statale Giancarlo Siani  
+**100/100**
 
 ---
 
-*Some of the software products I currently contribute to use private repositories. Public cybersecurity projects and technical case studies will be added here over time.*
+## Selected Credentials & Training
+
+- AWS Academy Graduate – Cloud Foundations
+- AWS Academy Graduate – Cloud Developing
+- AWS Academy Graduate – Generative AI Foundations
+- Apple Foundation – iOS Essentials
+- Apple Foundation – watchOS Advanced + tvOS Advanced
+- Cambridge English B1 – Overall Score 159
+- Missione Cyber Challenge – Certificate of Participation, Italian Defence General Staff
+- Erasmus+ Blended Intensive Programme – University of Gdańsk, 3 ECTS
+
+---
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/andreamagliulo) ·
+[GitHub](https://github.com/AndreaMagliulo) ·
+[Email](mailto:andrymagliulo2004@gmail.com)
+
+---
+
+Most of the product code I currently contribute to is hosted in private repositories. Public cybersecurity projects and selected technical case studies will be added here as they are prepared for release.
