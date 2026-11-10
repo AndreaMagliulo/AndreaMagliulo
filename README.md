@@ -1,10 +1,10 @@
 # Andrea Magliulo
 
-**Cybersecurity Graduate | Security Engineering | Application Security | Cloud Security | Secure Software Development**
+**Cybersecurity Graduate (BSc) | Mobile & Full-Stack Development | Interested in Application & Cloud Security**
 
-Cybersecurity graduate with a software engineering background and hands-on experience developing and shipping native mobile applications and multi-tenant SaaS products.
+Bachelor's graduate in cybersecurity with practical experience developing native mobile applications and a live multi-tenant SaaS platform.
 
-My current focus is on **Security Engineering, Application Security, Cloud Security and Secure Software Development**, with particular interest in building secure systems rather than treating security as a separate layer.
+I am at the beginning of my professional cybersecurity career, with an interest in application security, cloud security and secure software development.
 
 ---
 
@@ -14,16 +14,16 @@ I graduated in **Computer Engineering and Science for Cybersecurity (L-8)** from
 
 My academic background covers application and network security, operating system and cloud security, secure software design, vulnerability assessment, threat modeling, cryptography and Zero-Knowledge systems.
 
-Alongside my studies, I have worked on two software products:
+Alongside my studies and after graduation, I have contributed to two software projects:
 
 - **Signverse**, a native iOS and Android application for learning Italian Sign Language (LIS)
-- **TC Salon**, an advanced pre-production multi-tenant SaaS platform for salon operations
+- **TC Salon**, a live, in-production multi-tenant SaaS platform for salon operations
 
-I am also preparing to continue my studies with an **MSc in Computer Science Engineering – Cybersecurity and Cloud** at Politecnico di Bari.
+I am also interested in pursuing further studies in **Cybersecurity and Cloud** at Politecnico di Bari.
 
 ---
 
-## Current Work
+## Selected Projects
 
 ### Signverse
 **Co-founder & Mobile Developer**
@@ -53,7 +53,7 @@ Signverse is also registered in the Italian SIAE Special Public Register for Com
 ### TC Salon
 **Co-founder & Full-Stack Developer — Three Curls**
 
-TC Salon is an advanced pre-production **multi-tenant SaaS platform for salon operations**.
+TC Salon is a **live, in-production multi-tenant SaaS platform for salon operations**.
 
 My main engineering responsibilities include:
 
@@ -98,7 +98,7 @@ The implementation includes:
 
 ---
 
-## Security Focus
+## Security Background & Interests
 
 - Application Security
 - Network Security
@@ -135,7 +135,7 @@ The implementation includes:
 
 **MSc in Computer Science Engineering – Cybersecurity and Cloud**  
 Politecnico di Bari  
-*Incoming September 2026*
+*Planned*
 
 **Bachelor's Degree (L-8) in Computer Engineering and Science for Cybersecurity**  
 University of Naples 'Parthenope'  
